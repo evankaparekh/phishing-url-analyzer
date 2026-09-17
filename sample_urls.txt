@@ -1,0 +1,7 @@
+# Safe-looking example
+https://github.com/openai
+
+# Test-only suspicious examples (192.0.2.0/24 is reserved for documentation)
+http://192.0.2.10/login/verify-account
+https://bit.ly/example
+http://secure-account-update.example.test:8080/confirm-password
